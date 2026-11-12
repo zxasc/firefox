@@ -1,0 +1,193 @@
+{
+  "colors": {
+    "toolbar": {
+      "r": 228,
+      "g": 226,
+      "b": 228
+    },
+    "toolbar_text": {
+      "r": 111,
+      "g": 71,
+      "b": 79
+    },
+    "frame": {
+      "r": 214,
+      "g": 211,
+      "b": 214
+    },
+    "tab_background_text": {
+      "r": 129,
+      "g": 99,
+      "b": 104
+    },
+    "toolbar_field": {
+      "r": 217,
+      "g": 214,
+      "b": 218
+    },
+    "toolbar_field_text": {
+      "r": 111,
+      "g": 71,
+      "b": 79
+    },
+    "tab_line": {
+      "r": 169,
+      "g": 96,
+      "b": 132
+    },
+    "popup": {
+      "r": 228,
+      "g": 226,
+      "b": 228
+    },
+    "popup_text": {
+      "r": 111,
+      "g": 71,
+      "b": 79
+    },
+    "button_background_active": {
+      "r": 196,
+      "g": 180,
+      "b": 195
+    },
+    "button_background_hover": {
+      "r": 207,
+      "g": 202,
+      "b": 208
+    },
+    "frame_inactive": {
+      "r": 207,
+      "g": 202,
+      "b": 208
+    },
+    "icons": {
+      "r": 126,
+      "g": 82,
+      "b": 91
+    },
+    "icons_attention": {
+      "r": 169,
+      "g": 96,
+      "b": 132
+    },
+    "ntp_background": {
+      "r": 228,
+      "g": 226,
+      "b": 228
+    },
+    "ntp_text": {
+      "r": 111,
+      "g": 71,
+      "b": 79
+    },
+    "popup_border": {
+      "r": 207,
+      "g": 202,
+      "b": 208
+    },
+    "popup_highlight": {
+      "r": 196,
+      "g": 180,
+      "b": 195
+    },
+    "popup_highlight_text": {
+      "r": 111,
+      "g": 71,
+      "b": 79
+    },
+    "sidebar": {
+      "r": 214,
+      "g": 211,
+      "b": 214
+    },
+    "sidebar_text": {
+      "r": 111,
+      "g": 71,
+      "b": 79
+    },
+    "sidebar_border": {
+      "r": 207,
+      "g": 202,
+      "b": 208
+    },
+    "sidebar_highlight": {
+      "r": 196,
+      "g": 180,
+      "b": 195
+    },
+    "sidebar_highlight_text": {
+      "r": 111,
+      "g": 71,
+      "b": 79
+    },
+    "tab_background_separator": {
+      "r": 207,
+      "g": 202,
+      "b": 208
+    },
+    "tab_loading": {
+      "r": 169,
+      "g": 96,
+      "b": 132
+    },
+    "tab_selected": {
+      "r": 228,
+      "g": 226,
+      "b": 228
+    },
+    "tab_text": {
+      "r": 111,
+      "g": 71,
+      "b": 79
+    },
+    "toolbar_bottom_separator": {
+      "r": 207,
+      "g": 202,
+      "b": 208
+    },
+    "toolbar_top_separator": {
+      "r": 207,
+      "g": 202,
+      "b": 208
+    },
+    "toolbar_field_border": {
+      "r": 207,
+      "g": 202,
+      "b": 208
+    },
+    "toolbar_field_border_focus": {
+      "r": 169,
+      "g": 96,
+      "b": 132
+    },
+    "toolbar_field_focus": {
+      "r": 228,
+      "g": 226,
+      "b": 228
+    },
+    "toolbar_field_text_focus": {
+      "r": 111,
+      "g": 71,
+      "b": 79
+    },
+    "toolbar_field_highlight": {
+      "r": 196,
+      "g": 180,
+      "b": 195
+    },
+    "toolbar_field_highlight_text": {
+      "r": 111,
+      "g": 71,
+      "b": 79
+    },
+    "toolbar_field_separator": {
+      "r": 207,
+      "g": 202,
+      "b": 208
+    }
+  },
+  "images": {
+    "additional_backgrounds": []
+  },
+  "title": "Sakura Light"
+}
